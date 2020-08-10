@@ -1,0 +1,36 @@
+body
+{
+    font-family: cursive;
+    font-size: large;
+    color: ghostwhite;
+    margin-top: auto;
+    margin-bottom: auto;
+    max-width: 70em;
+    width: 70%;
+    background-image: url('/home/agnesnjuguna/Downloads/images.jpeg')
+}
+
+nav 
+{
+  font-family: fantasy;
+  color: crimson;
+  background-color: darkviolet;
+  font-size: 112.5%;
+  display: inline-flexbox;
+  max-width: 80em;
+}
+
+aside{
+  float: right;
+  margin: 1.5%;
+  width: 30%  
+}
+footer
+{
+  margin-bottom: 0em;
+  width: 100%;
+}
+td
+{
+  background-color: darkviolet;
+}
